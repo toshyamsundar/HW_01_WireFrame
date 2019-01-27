@@ -1,6 +1,8 @@
-****DESCRIPTION
+#A Simple Wireframe
+
+**DESCRIPTION**
 This is simple wireframe using flex. 
 
-****Components
+**Components**
 wireframe.html
 css/style.css
