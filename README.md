@@ -6,5 +6,5 @@ This is simple wireframe using flex. Using flex made it easy to build this wiref
 
 **COMPONENTS**
 
-- wireframe.html
+- index.html
 - css/style.css
